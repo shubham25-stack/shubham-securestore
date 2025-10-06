@@ -44,14 +44,16 @@ shubham-securestore/
 
 This project is licensed under the Apache 2.0 License. See LICENSE
  for details.
-
+</br?>
 👨‍💻 Author
-
+</br>
 Shubham Kumar Thakur
+</br>
+GitHub-: https://www.github.com/shubham25-stack
+</br>
 
-GitHub
-
-LinkedIn
+LinkedIn -: https://www.linkedin.com/in/shubham-thakur-0b281524b/
+</br>
 
 Email: shubham.codecreator@gmail.com
 </br>
